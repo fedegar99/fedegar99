@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fedegar99
 - 👀 I’m interested in game devlopment
-- 🌱 I’m currently learning Lua, Android, Python and Unity2D
-- 💞️ I’m looking to collaborate on artist and storytellers
+- 🌱 I’m currently learning Android, c++ and Unity2D
 - 💻 I'm computer science student at Federico II Napoli
 
 >gufo <3
