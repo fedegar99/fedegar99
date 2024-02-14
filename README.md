@@ -3,6 +3,13 @@
 - 🌱 I’m currently learning Android, c++ and Unity2D
 - 💻 I'm computer science student at Federico II Napoli
 
+<h> Skills <h>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,godot,c,cs,cpp,java,lua,py,linux,discord,postgres,docker,figma,gcp,aws,idea,androidstudio,blender,raspberrypi,arduino,ps,pr" />
+  </a>
+</p>
+
 >gufo <3
 
 <!---
