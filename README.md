@@ -6,7 +6,7 @@
 <h> Skills <h>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,godot,c,cs,cpp,java,lua,py,linux,discord,postgres,docker,figma,gcp,aws,idea,androidstudio,blender,raspberrypi,arduino,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=unity,godot,java,cpp,cs,lua,py,linux,discord,postgres,docker,figma,gcp,aws,idea,androidstudio,blender,raspberrypi,arduino,ps,pr" />
   </a>
 </p>
 
