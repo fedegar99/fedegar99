@@ -1,12 +1,26 @@
 - 👋 Hi, I’m @fedegar99
 - 👀 I’m interested in game devlopment
-- 🌱 I’m currently learning Android, c++ and Unity2D
+- 🌱 I’m currently learning Android and Godot
 - 💻 I'm computer science student at Federico II Napoli
 
-<h> Skills <h>
+<h> Main Skills <h>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,godot,java,cpp,cs,lua,py,linux,discord,postgres,docker,figma,gcp,aws,idea,androidstudio,blender,raspberrypi,arduino,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=notion,java,cpp,godot,linux,discord,postgres,docker,figma,gcp,androidstudio,blender,ps,pr" />
+  </a>
+</p>
+
+<h> Collateral Skills <h>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,unity,cs,lua,py,aws,idea,raspberrypi,arduino" />
+  </a>
+</p>
+
+<h> Learning <h>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,godot" />
   </a>
 </p>
 
